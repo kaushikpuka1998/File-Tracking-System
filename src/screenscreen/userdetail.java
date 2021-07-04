@@ -45,7 +45,7 @@ public class userdetail extends javax.swing.JFrame {
         setPreferredSize(new java.awt.Dimension(1102, 774));
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
-        jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(153, 0, 153), null));
+        jPanel2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(153, 0, 153), 2));
 
         jLabel3.setText("Username:");
 

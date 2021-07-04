@@ -147,7 +147,6 @@ public class User extends javax.swing.JFrame {
         jScrollPane4 = new javax.swing.JScrollPane();
         adr = new javax.swing.JTextArea();
         jLabel44 = new javax.swing.JLabel();
-        rSButtonIconD2 = new rojerusan.RSButtonIconD();
         dtelbb = new javax.swing.JLabel();
         hlnr = new javax.swing.JLabel();
         jp3 = new javax.swing.JPanel();
@@ -266,7 +265,6 @@ public class User extends javax.swing.JFrame {
         jPanel3.setPreferredSize(new java.awt.Dimension(1102, 48));
 
         jButton1.setBackground(new java.awt.Color(255, 255, 255));
-        jButton1.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\red-cross.png")); // NOI18N
         jButton1.setBorder(null);
         jButton1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -275,7 +273,6 @@ public class User extends javax.swing.JFrame {
         });
 
         jButton2.setBackground(new java.awt.Color(255, 255, 255));
-        jButton2.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\minimize1.png")); // NOI18N
         jButton2.setBorder(null);
         jButton2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -302,7 +299,7 @@ public class User extends javax.swing.JFrame {
         jPanel3Layout.setVerticalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel3Layout.createSequentialGroup()
-                .addGap(0, 0, Short.MAX_VALUE)
+                .addGap(0, 16, Short.MAX_VALUE)
                 .addGroup(jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel3Layout.createSequentialGroup()
                         .addComponent(jLabel4)
@@ -339,7 +336,6 @@ public class User extends javax.swing.JFrame {
 
         btnpass.setBackground(new java.awt.Color(102, 0, 102));
         btnpass.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 0, 0)));
-        btnpass.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\Password.png")); // NOI18N
         btnpass.setText("       Change Password");
         btnpass.setBorderPainted(false);
         btnpass.setColorHover(new java.awt.Color(255, 51, 0));
@@ -355,7 +351,6 @@ public class User extends javax.swing.JFrame {
 
         btndetails.setBackground(new java.awt.Color(102, 0, 102));
         btndetails.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 51, 51)));
-        btndetails.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\school2.png")); // NOI18N
         btndetails.setText("         Member Detail's");
         btndetails.setBorderPainted(false);
         btndetails.setColorHover(new java.awt.Color(255, 51, 0));
@@ -371,7 +366,6 @@ public class User extends javax.swing.JFrame {
 
         btnadd.setBackground(new java.awt.Color(102, 0, 102));
         btnadd.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 0, 0)));
-        btnadd.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\folder3.png")); // NOI18N
         btnadd.setText("Add File");
         btnadd.setBorderPainted(false);
         btnadd.setColorHover(new java.awt.Color(255, 51, 0));
@@ -388,7 +382,6 @@ public class User extends javax.swing.JFrame {
 
         btnreceived.setBackground(new java.awt.Color(102, 0, 102));
         btnreceived.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 0, 51)));
-        btnreceived.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\Message.png")); // NOI18N
         btnreceived.setText("       Received File");
         btnreceived.setBorderPainted(false);
         btnreceived.setColorHover(new java.awt.Color(255, 51, 0));
@@ -404,7 +397,6 @@ public class User extends javax.swing.JFrame {
 
         btnsend.setBackground(new java.awt.Color(102, 0, 102));
         btnsend.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 0, 0)));
-        btnsend.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\SentBox.png")); // NOI18N
         btnsend.setText("Sent File");
         btnsend.setBorderPainted(false);
         btnsend.setColorHover(new java.awt.Color(255, 51, 0));
@@ -420,7 +412,6 @@ public class User extends javax.swing.JFrame {
 
         btnlogout.setBackground(new java.awt.Color(102, 0, 102));
         btnlogout.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 0, 0)));
-        btnlogout.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\logout2.png")); // NOI18N
         btnlogout.setText("Logout");
         btnlogout.setBorderPainted(false);
         btnlogout.setColorHover(new java.awt.Color(255, 51, 0));
@@ -436,7 +427,6 @@ public class User extends javax.swing.JFrame {
 
         btnhome.setBackground(new java.awt.Color(102, 0, 102));
         btnhome.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(204, 0, 0)));
-        btnhome.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\home.png")); // NOI18N
         btnhome.setText("Home");
         btnhome.setBorderPainted(false);
         btnhome.setColorHover(new java.awt.Color(255, 51, 0));
@@ -453,7 +443,6 @@ public class User extends javax.swing.JFrame {
 
         btnpass1.setBackground(new java.awt.Color(102, 0, 102));
         btnpass1.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 0, 0)));
-        btnpass1.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\search\\search-256.png")); // NOI18N
         btnpass1.setText("Search");
         btnpass1.setBorderPainted(false);
         btnpass1.setColorHover(new java.awt.Color(255, 51, 0));
@@ -529,7 +518,7 @@ public class User extends javax.swing.JFrame {
         jPanel2.setLayout(jPanel2Layout);
         jPanel2Layout.setHorizontalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jPanel7, javax.swing.GroupLayout.DEFAULT_SIZE, 257, Short.MAX_VALUE)
+            .addComponent(jPanel7, javax.swing.GroupLayout.DEFAULT_SIZE, 276, Short.MAX_VALUE)
             .addGroup(jPanel2Layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -597,8 +586,6 @@ public class User extends javax.swing.JFrame {
         jp1.setName("jp1"); // NOI18N
         jp1.setPreferredSize(new java.awt.Dimension(975, 901));
 
-        jLabel26.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Welcome Picture\\58aff1cf829958a978a4a6cb.png")); // NOI18N
-
         jLabel6.setBackground(new java.awt.Color(0, 0, 0));
         jLabel6.setFont(new java.awt.Font("SansSerif", 0, 18)); // NOI18N
         jLabel6.setForeground(new java.awt.Color(153, 0, 153));
@@ -616,7 +603,6 @@ public class User extends javax.swing.JFrame {
 
         homesentbtn.setBackground(new java.awt.Color(255, 255, 255));
         homesentbtn.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(102, 0, 102)));
-        homesentbtn.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\SentBox.png")); // NOI18N
         homesentbtn.setColorHover(new java.awt.Color(0, 255, 255));
         homesentbtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -626,7 +612,6 @@ public class User extends javax.swing.JFrame {
 
         homeaddbtn.setBackground(new java.awt.Color(255, 255, 255));
         homeaddbtn.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(102, 0, 102)));
-        homeaddbtn.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\message\\untitled.png")); // NOI18N
         homeaddbtn.setColorHover(new java.awt.Color(0, 255, 255));
         homeaddbtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -636,7 +621,6 @@ public class User extends javax.swing.JFrame {
 
         homerecbtn.setBackground(new java.awt.Color(255, 255, 255));
         homerecbtn.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(102, 0, 102)));
-        homerecbtn.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\message\\mailbox-message-received-icon.png")); // NOI18N
         homerecbtn.setColorHover(new java.awt.Color(0, 255, 255));
         homerecbtn.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -777,21 +761,6 @@ public class User extends javax.swing.JFrame {
         jLabel44.setForeground(new java.awt.Color(0, 0, 0));
         jLabel44.setText("Phn. Number:");
 
-        rSButtonIconD2.setBackground(new java.awt.Color(255, 255, 255));
-        rSButtonIconD2.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 255, 255)));
-        rSButtonIconD2.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Iconfinder\\edit.png")); // NOI18N
-        rSButtonIconD2.setColorHover(new java.awt.Color(153, 0, 153));
-        rSButtonIconD2.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                rSButtonIconD2MouseClicked(evt);
-            }
-        });
-        rSButtonIconD2.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                rSButtonIconD2ActionPerformed(evt);
-            }
-        });
-
         dtelbb.setBackground(new java.awt.Color(0, 0, 0));
         dtelbb.setFont(new java.awt.Font("SansSerif", 0, 18)); // NOI18N
         dtelbb.setForeground(new java.awt.Color(0, 0, 0));
@@ -821,7 +790,7 @@ public class User extends javax.swing.JFrame {
                                 .addGroup(jp2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                                     .addComponent(jLabel40)
                                     .addComponent(jLabel42)
-                                    .addComponent(jLabel41, javax.swing.GroupLayout.DEFAULT_SIZE, 221, Short.MAX_VALUE)
+                                    .addComponent(jLabel41, javax.swing.GroupLayout.DEFAULT_SIZE, 245, Short.MAX_VALUE)
                                     .addComponent(jLabel43, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
                                 .addGap(12, 12, 12))
                             .addGroup(jp2Layout.createSequentialGroup()
@@ -844,17 +813,14 @@ public class User extends javax.swing.JFrame {
                     .addGroup(jp2Layout.createSequentialGroup()
                         .addGap(0, 0, Short.MAX_VALUE)
                         .addComponent(jLabel36)
-                        .addGap(280, 280, 280)
-                        .addComponent(rSButtonIconD2, javax.swing.GroupLayout.PREFERRED_SIZE, 45, javax.swing.GroupLayout.PREFERRED_SIZE)))
+                        .addGap(325, 325, 325)))
                 .addGap(21, 21, 21))
         );
         jp2Layout.setVerticalGroup(
             jp2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jp2Layout.createSequentialGroup()
                 .addGap(29, 29, 29)
-                .addGroup(jp2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jLabel36)
-                    .addComponent(rSButtonIconD2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
+                .addComponent(jLabel36)
                 .addGap(60, 60, 60)
                 .addGroup(jp2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(jLabel37)
@@ -897,7 +863,7 @@ public class User extends javax.swing.JFrame {
                 .addGroup(jp2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(ph, javax.swing.GroupLayout.PREFERRED_SIZE, 37, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(jLabel44))
-                .addContainerGap(235, Short.MAX_VALUE))
+                .addContainerGap(298, Short.MAX_VALUE))
         );
 
         rSPanelsSlider1.add(jp2, "card3");
@@ -1415,7 +1381,6 @@ public class User extends javax.swing.JFrame {
             }
         });
 
-        abc.setIcon(new javax.swing.ImageIcon("F:\\netbeans Projects\\icons\\Account1.jpg")); // NOI18N
         abc.setText("jLabel46");
 
         javax.swing.GroupLayout jp5Layout = new javax.swing.GroupLayout(jp5);
@@ -2035,7 +2000,7 @@ public class User extends javax.swing.JFrame {
                 .addComponent(rSPanelsSlider1, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                 .addGap(0, 0, 0)
                 .addComponent(jPanel2, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-            .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, 1234, Short.MAX_VALUE)
+            .addComponent(jPanel3, javax.swing.GroupLayout.DEFAULT_SIZE, 1283, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -2958,7 +2923,6 @@ String d = null;
     public javax.swing.JTextField phn;
     private rojerusan.RSButtonHover rSButtonHover1;
     private rojerusan.RSButtonHover rSButtonHover2;
-    private rojerusan.RSButtonIconD rSButtonIconD2;
     public rojerusan.RSButtonIconI rSButtonIconI1;
     private rojerusan.RSButtonIconI rSButtonIconI2;
     private rojerusan.RSButtonIconI rSButtonIconI3;

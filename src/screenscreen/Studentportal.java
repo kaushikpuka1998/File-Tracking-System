@@ -151,7 +151,7 @@ public class Studentportal extends javax.swing.JFrame {
         jScrollPane4 = new javax.swing.JScrollPane();
         adr = new javax.swing.JTextArea();
         jLabel44 = new javax.swing.JLabel();
-        rSButtonIconD2 = new rojerusan.RSButtonIconD();
+        rSButtonIconD2 = new rojerusan.RSButtonIconI();
         dtelbb = new javax.swing.JLabel();
         hlnr = new javax.swing.JLabel();
         jp3 = new javax.swing.JPanel();
@@ -2948,7 +2948,7 @@ start s = new start();
     public javax.swing.JTextField phn;
     private rojerusan.RSButtonHover rSButtonHover1;
     private rojerusan.RSButtonHover rSButtonHover2;
-    private rojerusan.RSButtonIconD rSButtonIconD2;
+    private rojerusan.RSButtonIconI rSButtonIconD2;
     public rojerusan.RSButtonIconI rSButtonIconI1;
     private rojerusan.RSButtonIconI rSButtonIconI2;
     private rojerusan.RSButtonIconI rSButtonIconI3;

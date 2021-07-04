@@ -32,7 +32,7 @@
               <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
               <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
           </Group>
-          <Component id="jPanel3" pref="1234" max="32767" attributes="0"/>
+          <Component id="jPanel3" pref="1283" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
@@ -82,7 +82,7 @@
         <DimensionLayout dim="1">
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
-                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <EmptySpace min="0" pref="16" max="32767" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="1" attributes="0">
                           <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
@@ -104,9 +104,6 @@
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
             </Property>
-            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="F:\netbeans Projects\icons\red-cross.png"/>
-            </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="null"/>
             </Property>
@@ -119,9 +116,6 @@
           <Properties>
             <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
               <Color blue="ff" green="ff" red="ff" type="rgb"/>
-            </Property>
-            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-              <Image iconType="2" name="F:\netbeans Projects\icons\minimize1.png"/>
             </Property>
             <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
               <Border info="null"/>
@@ -161,7 +155,7 @@
       <Layout>
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
-              <Component id="jPanel7" alignment="0" pref="257" max="32767" attributes="0"/>
+              <Component id="jPanel7" alignment="0" pref="276" max="32767" attributes="0"/>
               <Group type="102" attributes="0">
                   <EmptySpace max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
@@ -361,9 +355,6 @@
                     </LineBorder>
                   </Border>
                 </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\Password.png"/>
-                </Property>
                 <Property name="text" type="java.lang.String" value="       Change Password"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
                 <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -392,9 +383,6 @@
                     </LineBorder>
                   </Border>
                 </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\school2.png"/>
-                </Property>
                 <Property name="text" type="java.lang.String" value="         Member Detail&apos;s"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
                 <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -422,9 +410,6 @@
                       <Color PropertyName="color" blue="0" green="0" red="ff" type="rgb"/>
                     </LineBorder>
                   </Border>
-                </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\folder3.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Add File"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
@@ -455,9 +440,6 @@
                     </LineBorder>
                   </Border>
                 </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\Message.png"/>
-                </Property>
                 <Property name="text" type="java.lang.String" value="       Received File"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
                 <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -485,9 +467,6 @@
                       <Color PropertyName="color" blue="0" green="0" red="ff" type="rgb"/>
                     </LineBorder>
                   </Border>
-                </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\SentBox.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Sent File"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
@@ -517,9 +496,6 @@
                     </LineBorder>
                   </Border>
                 </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\logout2.png"/>
-                </Property>
                 <Property name="text" type="java.lang.String" value="Logout"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
                 <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
@@ -547,9 +523,6 @@
                       <Color PropertyName="color" blue="0" green="0" red="cc" type="rgb"/>
                     </LineBorder>
                   </Border>
-                </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\home.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Home"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
@@ -579,9 +552,6 @@
                       <Color PropertyName="color" blue="0" green="0" red="ff" type="rgb"/>
                     </LineBorder>
                   </Border>
-                </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\search\search-256.png"/>
                 </Property>
                 <Property name="text" type="java.lang.String" value="Search"/>
                 <Property name="borderPainted" type="boolean" value="false"/>
@@ -774,11 +744,6 @@
           </Layout>
           <SubComponents>
             <Component class="javax.swing.JLabel" name="jLabel26">
-              <Properties>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Welcome Picture\58aff1cf829958a978a4a6cb.png"/>
-                </Property>
-              </Properties>
             </Component>
             <Component class="javax.swing.JLabel" name="jLabel6">
               <Properties>
@@ -834,9 +799,6 @@
                     </LineBorder>
                   </Border>
                 </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\SentBox.png"/>
-                </Property>
                 <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="ff" red="0" type="rgb"/>
                 </Property>
@@ -857,9 +819,6 @@
                     </LineBorder>
                   </Border>
                 </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\message\untitled.png"/>
-                </Property>
                 <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="ff" red="0" type="rgb"/>
                 </Property>
@@ -879,9 +838,6 @@
                       <Color PropertyName="color" blue="66" green="0" red="66" type="rgb"/>
                     </LineBorder>
                   </Border>
-                </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\message\mailbox-message-received-icon.png"/>
                 </Property>
                 <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
                   <Color blue="ff" green="ff" red="0" type="rgb"/>
@@ -936,7 +892,7 @@
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Component id="jLabel40" alignment="0" min="-2" max="-2" attributes="0"/>
                                           <Component id="jLabel42" alignment="0" min="-2" max="-2" attributes="0"/>
-                                          <Component id="jLabel41" alignment="0" pref="221" max="32767" attributes="0"/>
+                                          <Component id="jLabel41" alignment="0" pref="245" max="32767" attributes="0"/>
                                           <Component id="jLabel43" alignment="0" max="32767" attributes="0"/>
                                       </Group>
                                       <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
@@ -967,8 +923,7 @@
                           <Group type="102" alignment="1" attributes="0">
                               <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
                               <Component id="jLabel36" min="-2" max="-2" attributes="0"/>
-                              <EmptySpace min="-2" pref="280" max="-2" attributes="0"/>
-                              <Component id="rSButtonIconD2" min="-2" pref="45" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="325" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                       <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
@@ -979,10 +934,7 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
-                      <Group type="103" groupAlignment="1" attributes="0">
-                          <Component id="jLabel36" alignment="1" min="-2" max="-2" attributes="0"/>
-                          <Component id="rSButtonIconD2" alignment="1" min="-2" max="-2" attributes="0"/>
-                      </Group>
+                      <Component id="jLabel36" min="-2" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="60" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="jLabel37" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -1038,7 +990,7 @@
                           <Component id="ph" alignment="3" min="-2" pref="37" max="-2" attributes="0"/>
                           <Component id="jLabel44" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace pref="235" max="32767" attributes="0"/>
+                      <EmptySpace pref="298" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -1275,30 +1227,6 @@
                 </Property>
                 <Property name="text" type="java.lang.String" value="Phn. Number:"/>
               </Properties>
-            </Component>
-            <Component class="rojerusan.RSButtonIconD" name="rSButtonIconD2">
-              <Properties>
-                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
-                </Property>
-                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
-                  <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
-                    <LineBorder>
-                      <Color PropertyName="color" blue="ff" green="ff" red="ff" type="rgb"/>
-                    </LineBorder>
-                  </Border>
-                </Property>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Iconfinder\edit.png"/>
-                </Property>
-                <Property name="colorHover" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
-                  <Color blue="99" green="0" red="99" type="rgb"/>
-                </Property>
-              </Properties>
-              <Events>
-                <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="rSButtonIconD2MouseClicked"/>
-                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="rSButtonIconD2ActionPerformed"/>
-              </Events>
             </Component>
             <Component class="javax.swing.JLabel" name="dtelbb">
               <Properties>
@@ -2553,9 +2481,6 @@
             </Component>
             <Component class="javax.swing.JLabel" name="abc">
               <Properties>
-                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                  <Image iconType="2" name="F:\netbeans Projects\icons\Account1.jpg"/>
-                </Property>
                 <Property name="text" type="java.lang.String" value="jLabel46"/>
               </Properties>
               <AuxValues>
